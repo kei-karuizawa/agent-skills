@@ -1,0 +1,15 @@
+#XCode
+.DS_Store
+project.xcworkspace
+# xcshareddata
+xcuserdata/
+*.xcworkspace
+
+#SVN
+.svn
+
+#CocoaPod
+Pods/
+**/Pods/
+Podfile.lock
+**/Podfile.lock
